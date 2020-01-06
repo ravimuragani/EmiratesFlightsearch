@@ -1,3 +1,6 @@
+******************Scenario*********************
+Navigate to emirates.com and do a one-way flight search and print the cheapest flight number.  
+
 *****************Framework Features***********************
 Parametarized with Property Resource file(.properties file)
 Page Object Model
